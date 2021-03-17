@@ -1,2 +1,2 @@
-# Match
-Match is a framework for creating match games
+# GameLab
+GameLab is a framework for rapid prototype and experiment game concepts.
