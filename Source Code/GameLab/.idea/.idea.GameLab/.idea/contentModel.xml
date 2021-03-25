@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sandr\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sandr\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_GameLab.-2013014137.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\LiteNinja\GameLab\Source Code\GameLab" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="LiteNinja" t="Include">
+          <e p="GameSystems" t="Include">
+            <e p="Platformer" t="Include">
+              <e p="Actor.cs" t="Include" />
+              <e p="Controller2D.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="GameLab.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
